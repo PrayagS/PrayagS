@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrayagS&show_icons=true&theme=radical" />
+<h1 align="left">
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrayagS&show_icons=true&theme=radical" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrayagS&layout=compact&langs_count=8&show_icons=true&theme=radical" />
