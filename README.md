@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<a href="https://linkedin.com/in/prayags527" target="_blank">
+<a href="https://linkedin.com/in/prayag-savsani" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/PrayagSavsani" target="_blank">
