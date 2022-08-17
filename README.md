@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 <h1 align="left">
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrayagS&show_icons=true&theme=radical" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrayagS&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a>
