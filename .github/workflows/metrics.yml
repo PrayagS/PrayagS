@@ -17,10 +17,10 @@ jobs:
         with:
           filename: activity.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header, repositories
           base_indepth: yes
           base_hireable: yes
-          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, activity, stars
+          config_order: base.header, base.repositories, activity, stars
           plugin_activity: yes
           plugin_activity_limit: 3
           plugin_activity_days: 0
