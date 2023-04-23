@@ -12,10 +12,71 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Example
+      - name: Base
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.classic.svg
-          base: header, repositories
+          filename: base.metrics.svg
+          base: hheader, activity, community, repositories, metadata
+          base_indepth: yes
+          base_hireable: yes
           plugin_lines: yes
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+      - name: Issues and PRs
+        uses: lowlighter/metrics@latest
+        with:
+          filename: followup.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+      - name: Mildly interesting facts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: habits.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Kolkata
+      - name: Indepth analysis
+        uses: lowlighter/metrics@latest
+        with:
+          filename: notable.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: stars.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
+      - name: Favorites anime and currently watching
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.metrics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 3
+
+
+
+
+
