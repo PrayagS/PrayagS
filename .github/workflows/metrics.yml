@@ -13,6 +13,7 @@ jobs:
       - name: Column 1
         uses: lowlighter/metrics@latest
         with:
+          config_padding: 0, +10%
           filename: col1.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
