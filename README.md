@@ -1,11 +1,11 @@
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/base.metrics.svg">](#)
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/activity.metrics.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/activity.metrics.svg">](#)
 
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/notable.metrics.svg">](#)
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/habits.metrics.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/habits.metrics.svg">](#)
 
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/followup.metrics.svg">](#)
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/stars.metrics.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/stars.metrics.svg">](#)
 
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
