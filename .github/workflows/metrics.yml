@@ -4,55 +4,42 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Recent activity
+      - name: Column 1
         uses: lowlighter/metrics@latest
         with:
-          filename: activity.metrics.svg
+          filename: col1.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           base_indepth: yes
           base_hireable: yes
-          config_order: base.header, base.repositories, activity, stars
+          config_order: base.header, base.repositories, notable, followup
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_followup: yes
+          plugin_followup_sections: user
+      - name: Column 2
+        uses: lowlighter/metrics@latest
+        with:
+          filename: col2.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_order: activity, habits, stars
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
           plugin_activity: yes
           plugin_activity_limit: 3
           plugin_activity_days: 0
           plugin_stars: yes
           plugin_stars_limit: 3
-      - name: Favorites anime and currently watching
-        uses: lowlighter/metrics@latest
-        with:
-          filename: anilist.metrics.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching, characters
-          plugin_anilist_limit: 3
-          plugin_anilist_limit_characters: 22
-      - name: Issues and PRs
-        uses: lowlighter/metrics@latest
-        with:
-          filename: followup.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_order: notable, followup, habits
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Asia/Kolkata
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+
           
           
 
