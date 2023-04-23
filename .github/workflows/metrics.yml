@@ -10,20 +10,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Base
+      - name: Column 1
         uses: lowlighter/metrics@latest
         with:
-          filename: base.metrics.svg
+          filename: col1.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           base_indepth: yes
           base_hireable: yes
-      - name: Notable
-        uses: lowlighter/metrics@latest
-        with:
-          filename: notable.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          config_order: base.header, base.repositories, notable
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
@@ -35,21 +30,16 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user
-      - name: Activity
+      - name: Column 2
         uses: lowlighter/metrics@latest
         with:
-          filename: activity.metrics.svg
+          filename: col2.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_order: activity, habits, stars
           plugin_activity: yes
           plugin_activity_limit: 3
           plugin_activity_days: 0
-      - name: Habits
-        uses: lowlighter/metrics@latest
-        with:
-          filename: habits.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
@@ -62,11 +52,3 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
-
-          
-          
-
-
-
-
-
