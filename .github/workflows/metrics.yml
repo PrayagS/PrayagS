@@ -10,34 +10,56 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Column 1
+      - name: Base
         uses: lowlighter/metrics@latest
         with:
-          filename: col1.metrics.svg
+          filename: base.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           base_indepth: yes
           base_hireable: yes
-          config_order: base.header, base.repositories, notable, followup
+      - name: Notable
+        uses: lowlighter/metrics@latest
+        with:
+          filename: notable.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          plugin_followup: yes
-          plugin_followup_sections: user
-      - name: Column 2
+      - name: Followup
         uses: lowlighter/metrics@latest
         with:
-          filename: col2.metrics.svg
+          filename: followup.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          config_order: activity, habits, stars
+          plugin_followup: yes
+          plugin_followup_sections: user
+      - name: Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_activity: yes
           plugin_activity_limit: 3
           plugin_activity_days: 0
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: habits.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
           config_timezone: Asia/Kolkata
+      - name: Stars
+        uses: lowlighter/metrics@latest
+        with:
+          filename: stars.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
 
