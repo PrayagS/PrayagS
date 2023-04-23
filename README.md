@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <!-- <h1 align="left">
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrayagS&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a> -->
   
-<img align="left" width="390" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col1.metrics.svg">
-<img align="left" width="390" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col2.metrics.svg">
+<img align="left" width="400" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col1.metrics.svg">
+<img align="left" width="400" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col2.metrics.svg">
