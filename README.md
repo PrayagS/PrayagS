@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats
-<h1 align="left">
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrayagS&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a>
+<!-- <h1 align="left">
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrayagS&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" /></a> -->
+  
+<img align="left" width="750" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col1.metrics.svg">
+<img align="left" width="750" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col2.metrics.svg">
