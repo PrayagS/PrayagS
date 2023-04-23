@@ -21,7 +21,6 @@ jobs:
       - name: Notable
         uses: lowlighter/metrics@latest
         with:
-          config_padding: 0, 10
           filename: notable.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
