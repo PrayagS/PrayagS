@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "30 1 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
 jobs:
@@ -13,9 +13,8 @@ jobs:
       - name: Column 1
         uses: lowlighter/metrics@latest
         with:
-          config_output: png
           config_padding: 0, +10%
-          filename: col1.metrics.png
+          filename: col1.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           base_indepth: yes
@@ -27,8 +26,7 @@ jobs:
       - name: Followup
         uses: lowlighter/metrics@latest
         with:
-          config_output: png
-          filename: followup.metrics.png
+          filename: followup.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_followup: yes
@@ -36,8 +34,7 @@ jobs:
       - name: Column 2
         uses: lowlighter/metrics@latest
         with:
-          config_output: png
-          filename: col2.metrics.png
+          filename: col2.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_order: activity, habits, stars
@@ -51,8 +48,7 @@ jobs:
       - name: Stars
         uses: lowlighter/metrics@latest
         with:
-          config_output: png
-          filename: stars.metrics.png
+          filename: stars.metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stars: yes
