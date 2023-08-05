@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="629" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="435" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.added{color:#3fb950}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">PrayagS/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#898dfad</div>
+                                        <div class="message">Update .zshrc
+
+Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb6a9c4</div>
+                                        <div class="message">Update zsh bindkeys
+
+Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e89950</div>
+                                        <div class="message">Update yabairc
+
+Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#863b75e</div>
+                                        <div class="message">Update aws config
+
+Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -56,280 +96,6 @@ Both the
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 39 commits in
-                                        <span class="repo">PrayagS/litmusctl</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5cd6548</div>
-                                        <div class="message">Updated chaos-operator version (#100)
-
-* Updated chaos-operator version
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-* Upgraded graphql-server version
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#573b812</div>
-                                        <div class="message">Updated argo and chaos-operator versions (#98)
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ca98c0</div>
-                                        <div class="message">Add .exe extension to binaries on Windows (#96)
-
-Signed-off-by: Caleb Xu &lt;calebcenter@live.com&gt;
-
-Signed-off-by: Caleb Xu &lt;calebcenter@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c8aea4</div>
-                                        <div class="message">Added changes for error handling in chaosctl apply manifest logic (#97)
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd2a89e</div>
-                                        <div class="message">Update README.md (#95)
-
-* Update README.md
-
-Removed v0.12.0 download link
-
-* Updated 0.12.0 download link
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36ec9cb</div>
-                                        <div class="message">Added minor fix (#93)
-
-Signed-off-by: Vedant &lt;vedant.srotria@harness.io&gt;
-
-Signed-off-by: Vedant &lt;vedant.srotria@harness.io&gt;
-Co-authored-by: Vedant &lt;vedant.srotria@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e40de7</div>
-                                        <div class="message">Added changes for litmusctl readme update (#92)
-
-* Added changes for litmusctl readme update
-
-Signed-off-by: Vedant &lt;vedant.srotria@harness.io&gt;
-
-* Added download link for v0.8.0 binary
-
-Signed-off-by: Vedant &lt;vedant.srotria@harness.io&gt;
-
-Signed-off-by: Vedant &lt;vedant.srotria@harness.io&gt;
-Co-authored-by: Vedant &lt;vedant.srotria@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f44e884</div>
-                                        <div class="message">Fixed "index out of bound issue" in describe chaos-scenario command (#90)
-
-* Fixed out of bound issue in describe chaos-scenario command
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-* reverted compatibility matrix version changes
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f837ac</div>
-                                        <div class="message">Added kubeconfig flag in upgrade command (#89)
-
-* Added kubeconfig flag in all commands
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* minor fixes
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* minor fixes
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* minor change in compatibility matrix
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* minor fixes
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6ad58e</div>
-                                        <div class="message">Added error handling for describe workflow and disconnect agent command (#81)
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cfd8de</div>
-                                        <div class="message">updated compatibility matrix (#88)
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72bc309</div>
-                                        <div class="message">Improved error handling logic for upgrade agent (#87)
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f5ac08</div>
-                                        <div class="message">Added compatibility matrix and API to fetch GQL server version (#84)
-
-* Added getServerVersion and compatibility checks
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* minor linting fix
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* Updated commend and endpoint
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* minor fix
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;
-
-* Added a minor enhancement in logic
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35afa81</div>
-                                        <div class="message">Update commands and logs with new terminology (#83)
-
-* Update commands and logs with new terminology
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;
-
-* Added compatibility matrix in readme
-
-Signed-off-by: Sarthak Jain &lt;sarthak.jain@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92277b2</div>
-                                        <div class="message">Passing namespace in the SelfSubjectAccessReviews function (#82)
-
-Signed-off-by: Raj Babu Das &lt;mail.rajdas@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19bf342</div>
-                                        <div class="message">docs(agents|workflows): Update usage documentation (#78)
-
-* docs(agents): Refactor `create agent` -&gt; `connect agent`
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* docs(workflows): Add the newly added commands in Usage
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* docs(agents): Add `disconnect agent` in Usage
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* docs(agent): Add `REGISTRATION` field in `get agents`
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* Update Usage.md
-
-* Update Usage_interactive.md
-
-Co-authored-by: Raj Das &lt;mail.rajdas@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0e2912</div>
-                                        <div class="message">feat(workflows): Add `delete workflow` and `describe workflow` commands (#77)
-
-* feat(workflows): Add `delete workflow` command
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* feat(workflows): Add `describe workflow` command
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* fix(workflows): gofmt fixes
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* Added error message
-
-Co-authored-by: Saranya Jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bb28a4</div>
-                                        <div class="message">feat(workflows): Add `get workflows` command (#75)
-
-* feat(workflows): Add `get workflows` command
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* Added error messages
-
-Co-authored-by: Saranya Jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4f7fe9</div>
-                                        <div class="message">feat(workflows): Add `get workflowruns` command (#76)
-
-* feat(workflows): Add `get workflowruns` command
-
-Signed-off-by: PrayagS &lt;prayagsavsani@gmail.com&gt;
-
-* Added error message
-
-Co-authored-by: Saranya Jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb54bb6</div>
-                                        <div class="message">Added error log in agent-connect (#79)
-
-Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -339,9 +105,14 @@ Signed-off-by: Saranya-jena &lt;saranya.jena@harness.io&gt;</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
+                    <small class="h-details">(computed from last 1 commit)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
+                        <li>Uses spaces for indentation</li>
+                        <li>Has approximately 42.6 characters per line of code written</li>
+                        <li>Mostly pushes code around 13:00</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
