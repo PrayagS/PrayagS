@@ -60,38 +60,6 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
-      - name: Starred topics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: starredtopics.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 8
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
-      - name: Reactions
-        uses: lowlighter/metrics@latest
-        with:
-          filename: reactions.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
-      - name: Tweets
-        uses: lowlighter/metrics@latest
-        with:
-          filename: tweets.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 5
-          plugin_tweets_user: PrayagSavsani
       - name: Music
         uses: lowlighter/metrics@latest
         with:
@@ -106,3 +74,15 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: PrayagS527
+          plugin_music_token: "10091ef5130df9f576628bba40545dd8"
+      - name: Anime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anime.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: PrayagS
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 5
