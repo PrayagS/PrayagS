@@ -21,8 +21,10 @@ jobs:
           base_hireable: yes
           config_order: base.header, base.repositories, notable
           plugin_notable: yes
-          plugin_notable_indepth: yes
+          plugin_notable_from: all
           plugin_notable_repositories: yes
+          plugin_notable_self: yes
+          plugin_notable_types: commit, pull_request, issue
       - name: Followup
         uses: lowlighter/metrics@latest
         with:
@@ -31,6 +33,8 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user
+          plugin_followup_indepth: yes
+          plugin_followup_archived: yes
       - name: Column 2
         uses: lowlighter/metrics@latest
         with:
@@ -39,8 +43,11 @@ jobs:
           base: ""
           config_order: activity, habits, stars
           plugin_activity: yes
-          plugin_activity_limit: 3
-          plugin_activity_days: 0
+          plugin_activity_days: 30
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
@@ -53,3 +60,49 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+      - name: Starred topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: starredtopics.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 8
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+      - name: Reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: reactions.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+      - name: Tweets
+        uses: lowlighter/metrics@latest
+        with:
+          filename: tweets.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 5
+          plugin_tweets_user: PrayagSavsani
+      - name: Music
+        uses: lowlighter/metrics@latest
+        with:
+          filename: music.metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_limit: 5
+          plugin_music_mode: recent
+          plugin_music_played_at: yes
+          plugin_music_provider: lastfm
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: PrayagS527
