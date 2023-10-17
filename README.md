@@ -26,10 +26,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## Shell activity graph
 
