@@ -21,4 +21,5 @@
 
 ## Shell activity graph (courtesy of [atuinsh/atuin](https://github.com/atuinsh/atuin))
 
-[<img src="https://api.atuin.sh/img/Prayagmatic.png?token=80d2efe68cd91c0bdd03d611cc12c5d9787f3c2c">](#)
+![](https://api.atuin.sh/img/Prayagmatic.png?token=80d2efe68cd91c0bdd03d611cc12c5d9787f3c2c)
+
