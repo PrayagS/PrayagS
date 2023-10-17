@@ -18,17 +18,3 @@
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/stars.metrics.svg">](#)
 
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Shell activity graph
-
-<img src="https://api.atuin.sh/img/Prayagmatic.png?token=80d2efe68cd91c0bdd03d611cc12c5d9787f3c2c">
-
-![](https://api.atuin.sh/img/Prayagmatic.png?token=80d2efe68cd91c0bdd03d611cc12c5d9787f3c2c)
-
-<sub>Courtesy of [atuinsh/atuin](https://github.com/atuinsh/atuin)</sub>
