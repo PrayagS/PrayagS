@@ -17,4 +17,11 @@
 
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/followup.metrics.svg">](#)
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/stars.metrics.svg">](#)
-<sub align="left" width="390" style="max-width: 100%;">These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<sub align="left" width="390">These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
