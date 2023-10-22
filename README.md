@@ -17,4 +17,4 @@
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/followup.metrics.svg">](#)
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/stars.metrics.svg">](#)
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<sub align="left">These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
