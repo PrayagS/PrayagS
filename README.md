@@ -36,11 +36,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/stars.metrics.svg">](#)
-
-<br/>
-<br/>
 
 <sub align="left" width="390">These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
