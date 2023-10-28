@@ -25,3 +25,4 @@
 <br/>
 
 [<img alt="🦑" src="./shell-activity-graph.png">](#)
+<sub>Courtesy of [atuinsh/atuin](https://github.com/atuinsh/atuin)</sub>
