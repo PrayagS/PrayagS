@@ -1,0 +1,18 @@
+name: Shell Activity
+on:
+  # Schedule daily updates
+  schedule: [{cron: "10 */12 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+jobs:
+  shell-activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: wget shell activity graph
+        uses: wei/wget@v1
+        with:
+          args: -O shell-activity-graph.png 'https://api.atuin.sh/img/Prayagmatic.png?token=80d2efe68cd91c0bdd03d611cc12c5d9787f3c2c'
+      - uses: stefanzweifel/git-auto-commit-action@v5
