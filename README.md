@@ -16,6 +16,7 @@
 <sub align="left" width="390">These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
 <br/>
+<br/>
 
 [<img alt="🦑" src="./shell-activity-graph.png">](#)
 <sub>Courtesy of [atuinsh/atuin](https://github.com/atuinsh/atuin)</sub>
