@@ -60,6 +60,7 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+      - uses: actions/checkout@v4
       - name: wget shell activity graph
         uses: wei/wget@v1
         with:
