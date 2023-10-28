@@ -19,3 +19,10 @@
 <br/>
 
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/stars.metrics.svg">](#)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+[<img alt="🦑" src="./shell-activity-graph.png">](#)
