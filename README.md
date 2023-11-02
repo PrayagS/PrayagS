@@ -9,15 +9,13 @@
 
 ## GitHub Stats
 
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col1.metrics.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/col2.metrics.svg">](#)
+![](./col1.metrics.svg)
 
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/PrayagS/PrayagS/main/followup.metrics.svg">](#)
-<sub align="left" width="390">These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+![](./followup.metrics.svg)
 
-<br/>
-<br/>
-<br/>
+![](./col2.metrics.svg)
 
-[<img alt="🦑" src="./shell-activity-graph.png">](#)
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+
+![](./shell-activity-graph.png)
 <sub>Courtesy of [atuinsh/atuin](https://github.com/atuinsh/atuin)</sub>
