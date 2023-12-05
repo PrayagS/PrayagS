@@ -47,11 +47,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1369](https://github.com/atuinsh/atuin/issues/1369#issuecomment-1806796326) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-2. ❗ Opened issue [#1369](https://github.com/atuinsh/atuin/issues/1369) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
-3. 🔒 Closed issue [#93](https://github.com/bensadeh/circumflex/issues/93) in [bensadeh/circumflex](https://github.com/bensadeh/circumflex)
-4. 🗣 Commented on [#93](https://github.com/bensadeh/circumflex/issues/93#issuecomment-1782444423) in [bensadeh/circumflex](https://github.com/bensadeh/circumflex)
-5. ❗ Opened issue [#93](https://github.com/bensadeh/circumflex/issues/93) in [bensadeh/circumflex](https://github.com/bensadeh/circumflex)
+1. 🗣 Commented on [#1369](https://github.com/atuinsh/atuin/issues/1369#issuecomment-1840289259) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+2. 🗣 Commented on [#1369](https://github.com/atuinsh/atuin/issues/1369#issuecomment-1806796326) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+3. ❗ Opened issue [#1369](https://github.com/atuinsh/atuin/issues/1369) in [atuinsh/atuin](https://github.com/atuinsh/atuin)
+4. 🔒 Closed issue [#93](https://github.com/bensadeh/circumflex/issues/93) in [bensadeh/circumflex](https://github.com/bensadeh/circumflex)
+5. 🗣 Commented on [#93](https://github.com/bensadeh/circumflex/issues/93#issuecomment-1782444423) in [bensadeh/circumflex](https://github.com/bensadeh/circumflex)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
