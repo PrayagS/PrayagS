@@ -16,17 +16,17 @@
 <img src=https://img.shields.io/hackernews/user-karma/PrayagS?style=flat&logo=ycombinator&logoColor=%23f0652f&labelColor=%23ffffff&color=%23f0652f alt=hackernews" />
 </a>
 <br>
+<a href="https://anilist.co/user/Prayagmatic/" target="_blank">
+<img src=https://img.shields.io/badge/%20Prayagmatic-%2520?logo=anilist&logoColor=%2302A9FF&color=%23ffffff alt=anilist" />
+</a>
 <a href="https://www.last.fm/user/PrayagS527" target="_blank">
 <img src=https://img.shields.io/badge/%20PrayagS527-%2520?logo=lastdotfm&logoColor=%23ffffff&color=%23d51007 alt=lastfm" />
 </a>
-<a href="https://www.goodreads.com/user/show/170988088-prayagmatic" target="_blank">
-<img src=https://img.shields.io/badge/%20Prayagmatic-%2520?logo=goodreads&logoColor=%2375420e&color=%23e9e5cd alt=goodreads" />
-</a>
-<a href="https://anilist.co/user/PrayagS/" target="_blank">
-<img src=https://img.shields.io/badge/%20PrayagS-%2520?logo=anilist&logoColor=%2302A9FF&color=%23ffffff alt=anilist" />
-</a>
 <a href="https://letterboxd.com/Prayagmatic/" target="_blank">
 <img src=https://img.shields.io/badge/%20Prayagmatic-%2520?logo=letterboxd&logoColor=%23202830&color=%23ffffff alt=letterboxd" />
+</a>
+<a href="https://www.goodreads.com/user/show/170988088-prayagmatic" target="_blank">
+<img src=https://img.shields.io/badge/%20Prayagmatic-%2520?logo=goodreads&logoColor=%2375420e&color=%23e9e5cd alt=goodreads" />
 </a>
 
 ## GitHub Stats
