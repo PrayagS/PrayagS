@@ -2,7 +2,7 @@ name: Todoist Activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 */12 * * *"
+    - cron: "20 */3 * * *"
 
 jobs:
   update-readme:
