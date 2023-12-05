@@ -2,6 +2,7 @@
 
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/metrics.yml?style=plastic&label=GitHub%20metrics)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/shell-activity.yml?style=plastic&label=Shell%20activity%20graph)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/github-recent-activity.yml?style=plastic&label=GitHub%20recent%20activity)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/todoist.yml?style=plastic&label=Todoist%20activity)
 
 <a href="https://linkedin.com/in/prayag-savsani" target="_blank">
@@ -43,7 +44,12 @@
 ![](./shell-activity-graph.png)
 <sub>Courtesy of [atuinsh/atuin](https://github.com/atuinsh/atuin)</sub>
 
-## Todoist Stats
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## :memo: Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  9,170 Karma Points           
