@@ -5,31 +5,14 @@
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/github-recent-activity.yml?style=plastic&label=GitHub%20recent%20activity)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/todoist.yml?style=plastic&label=Todoist%20activity)
 
-<a href="https://linkedin.com/in/prayag-savsani" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white alt=linkedin" />
-</a>
-<a href="https://twitter.com/PrayagSavsani" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white alt=twitter" />
-</a>
-<a href="http://reddit.com/u/PrayagS/" target="_blank">
-<img src=https://img.shields.io/reddit/user-karma/combined/PrayagS?style=flat&logo=reddit&logoColor=%23FF4500&labelColor=%23FFFFFF&color=%23FF4500 alt=reddit" />
-</a>
-<a href="https://news.ycombinator.com/user?id=PrayagS" target="_blank">
-<img src=https://img.shields.io/hackernews/user-karma/PrayagS?style=flat&logo=ycombinator&logoColor=%23f0652f&labelColor=%23ffffff&color=%23f0652f alt=hackernews" />
-</a>
-<br>
-<a href="https://anilist.co/user/Prayagmatic/" target="_blank">
-<img src=https://img.shields.io/badge/%20Prayagmatic-%2520?logo=anilist&logoColor=%2302A9FF&color=%23ffffff alt=anilist" />
-</a>
-<a href="https://www.last.fm/user/PrayagS527" target="_blank">
-<img src=https://img.shields.io/badge/%20PrayagS527-%2520?logo=lastdotfm&logoColor=%23ffffff&color=%23d51007 alt=lastfm" />
-</a>
-<a href="https://letterboxd.com/Prayagmatic/" target="_blank">
-<img src=https://img.shields.io/badge/%20Prayagmatic-%2520?logo=letterboxd&logoColor=%23202830&color=%23ffffff alt=letterboxd" />
-</a>
-<a href="https://www.goodreads.com/user/show/170988088-prayagmatic" target="_blank">
-<img src=https://img.shields.io/badge/%20Prayagmatic-%2520?logo=goodreads&logoColor=%2375420e&color=%23e9e5cd alt=goodreads" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prayag-savsani)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://twitter.com/PrayagSavsani)
+[![HackerNews](https://img.shields.io/hackernews/user-karma/PrayagS?style=flat&logo=ycombinator&logoColor=%23f0652f&labelColor=%23ffffff&color=%23f0652f)](https://news.ycombinator.com/user?id=PrayagS)
+
+[![AniList](https://img.shields.io/badge/%20Prayagmatic-%2520?logo=anilist&logoColor=%2302A9FF&color=%23ffffff)](https://anilist.co/user/Prayagmatic/)
+[![LastFM](https://img.shields.io/badge/%20PrayagS527-%2520?logo=lastdotfm&logoColor=%23ffffff&color=%23d51007)](https://www.last.fm/user/PrayagS527)
+[![Letterboxd](https://img.shields.io/badge/%20Prayagmatic-%2520?logo=letterboxd&logoColor=%23202830&color=%23ffffff)](https://letterboxd.com/Prayagmatic/)
+[![Goodreads](https://img.shields.io/badge/%20Prayagmatic-%2520?logo=goodreads&logoColor=%2375420e&color=%23e9e5cd)](https://www.goodreads.com/user/show/170988088-prayagmatic)
 
 ## GitHub Stats
 
