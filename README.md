@@ -30,11 +30,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7044](https://github.com/thanos-io/thanos/issues/7044#issuecomment-1884818302) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-2. ❗ Opened issue [#7044](https://github.com/thanos-io/thanos/issues/7044) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-3. 🗣 Commented on [#9129](https://github.com/argoproj/argo-cd/issues/9129#issuecomment-1871891160) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#7005](https://github.com/thanos-io/thanos/issues/7005#issuecomment-1868535526) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-5. 🔒 Closed issue [#7005](https://github.com/thanos-io/thanos/issues/7005) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+1. 🗣 Commented on [#7044](https://github.com/thanos-io/thanos/issues/7044#issuecomment-1890604868) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+2. 🗣 Commented on [#7044](https://github.com/thanos-io/thanos/issues/7044#issuecomment-1890573013) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+3. 🗣 Commented on [#7044](https://github.com/thanos-io/thanos/issues/7044#issuecomment-1884818302) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+4. ❗ Opened issue [#7044](https://github.com/thanos-io/thanos/issues/7044) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+5. 🗣 Commented on [#9129](https://github.com/argoproj/argo-cd/issues/9129#issuecomment-1871891160) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
