@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/metrics.yml?style=plastic&label=GitHub%20metrics)
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/shell-activity.yml?style=plastic&label=Shell%20activity%20graph)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/github-recent-activity.yml?style=plastic&label=GitHub%20recent%20activity)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/PrayagS/PrayagS/todoist.yml?style=plastic&label=Todoist%20activity)
 
@@ -23,9 +22,6 @@
 ![](./col2.metrics.svg)
 
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
-
-![](./shell-activity-graph.png)
-<sub>Courtesy of [atuinsh/atuin](https://github.com/atuinsh/atuin)</sub>
 
 ## :zap: Recent Activity
 
