@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7127](https://github.com/thanos-io/thanos/issues/7127) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-2. ❗ Opened issue [#193](https://github.com/walles/moar/issues/193) in [walles/moar](https://github.com/walles/moar)
-3. ❗ Opened issue [#535](https://github.com/prometheus/statsd_exporter/issues/535) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
-4. 🗣 Commented on [#7044](https://github.com/thanos-io/thanos/issues/7044#issuecomment-1890604868) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-5. 🗣 Commented on [#7044](https://github.com/thanos-io/thanos/issues/7044#issuecomment-1890573013) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+1. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-1941269410) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+2. ❗ Opened issue [#7127](https://github.com/thanos-io/thanos/issues/7127) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+3. ❗ Opened issue [#193](https://github.com/walles/moar/issues/193) in [walles/moar](https://github.com/walles/moar)
+4. ❗ Opened issue [#535](https://github.com/prometheus/statsd_exporter/issues/535) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
+5. 🗣 Commented on [#7044](https://github.com/thanos-io/thanos/issues/7044#issuecomment-1890604868) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
