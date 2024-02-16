@@ -132,7 +132,7 @@ Once they're compacted into 2d blocks, the index size becomes ~20GB.</div>
                                     </svg>
                                     <div class="name">
                                         <span>nicolaka/netshoot</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a Docker + Kubernetes network trouble-shooting swiss-army container</div>
@@ -166,7 +166,7 @@ Once they're compacted into 2d blocks, the index size becomes ~20GB.</div>
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        55
+                                        57
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@ Once they're compacted into 2d blocks, the index size becomes ~20GB.</div>
                                     </svg>
                                     <div class="name">
                                         <span>nilic/kubectl-netshoot</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">kubectl plugin for spinning up netshoot container for network troubleshooting</div>
