@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#454](https://github.com/ente-io/auth/issues/454) in [ente-io/auth](https://github.com/ente-io/auth)
-2. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-1943787143) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-3. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-1941269410) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-4. ❗ Opened issue [#7127](https://github.com/thanos-io/thanos/issues/7127) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-5. ❗ Opened issue [#193](https://github.com/walles/moar/issues/193) in [walles/moar](https://github.com/walles/moar)
+1. 🗣 Commented on [#454](https://github.com/ente-io/auth/issues/454#issuecomment-1956596870) in [ente-io/auth](https://github.com/ente-io/auth)
+2. ❗ Opened issue [#454](https://github.com/ente-io/auth/issues/454) in [ente-io/auth](https://github.com/ente-io/auth)
+3. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-1943787143) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+4. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-1941269410) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+5. ❗ Opened issue [#7127](https://github.com/thanos-io/thanos/issues/7127) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
