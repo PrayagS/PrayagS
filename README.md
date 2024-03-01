@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9160](https://github.com/containerd/containerd/issues/9160#issuecomment-1962367630) in [containerd/containerd](https://github.com/containerd/containerd)
-2. 🗣 Commented on [#454](https://github.com/ente-io/auth/issues/454#issuecomment-1956596870) in [ente-io/auth](https://github.com/ente-io/auth)
-3. ❗ Opened issue [#454](https://github.com/ente-io/auth/issues/454) in [ente-io/auth](https://github.com/ente-io/auth)
-4. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-1943787143) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-5. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-1941269410) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+1. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972682721) in [getsentry/sentry](https://github.com/getsentry/sentry)
+2. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972680851) in [getsentry/sentry](https://github.com/getsentry/sentry)
+3. 🗣 Commented on [#9160](https://github.com/containerd/containerd/issues/9160#issuecomment-1962367630) in [containerd/containerd](https://github.com/containerd/containerd)
+4. 🗣 Commented on [#454](https://github.com/ente-io/auth/issues/454#issuecomment-1956596870) in [ente-io/auth](https://github.com/ente-io/auth)
+5. ❗ Opened issue [#454](https://github.com/ente-io/auth/issues/454) in [ente-io/auth](https://github.com/ente-io/auth)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
