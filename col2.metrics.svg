@@ -135,7 +135,7 @@ SRE team at my org wants to have a Slack channel where issue alerts from all pro
                                     </svg>
                                     <div class="name">
                                         <span>kubernetes-sigs/cluster-proportional-autoscaler</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes Cluster Proportional Autoscaler Container</div>
@@ -188,7 +188,7 @@ SRE team at my org wants to have a Slack channel where issue alerts from all pro
                                     </svg>
                                     <div class="name">
                                         <span>nicolaka/netshoot</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a Docker + Kubernetes network trouble-shooting swiss-army container</div>
@@ -241,7 +241,7 @@ SRE team at my org wants to have a Slack channel where issue alerts from all pro
                                     </svg>
                                     <div class="name">
                                         <span>nilic/kubectl-netshoot</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">kubectl plugin for spinning up netshoot container for network troubleshooting</div>
