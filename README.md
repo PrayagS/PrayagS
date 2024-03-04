@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3159](https://github.com/RedisLabs/redislabs-docs/pull/3159) in [RedisLabs/redislabs-docs](https://github.com/RedisLabs/redislabs-docs)
-2. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972682721) in [getsentry/sentry](https://github.com/getsentry/sentry)
-3. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972680851) in [getsentry/sentry](https://github.com/getsentry/sentry)
-4. 🗣 Commented on [#9160](https://github.com/containerd/containerd/issues/9160#issuecomment-1962367630) in [containerd/containerd](https://github.com/containerd/containerd)
-5. 🗣 Commented on [#454](https://github.com/ente-io/auth/issues/454#issuecomment-1956596870) in [ente-io/auth](https://github.com/ente-io/auth)
+1. 🗣 Commented on [#535](https://github.com/prometheus/statsd_exporter/issues/535#issuecomment-1975931417) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
+2. 💪 Opened PR [#3159](https://github.com/RedisLabs/redislabs-docs/pull/3159) in [RedisLabs/redislabs-docs](https://github.com/RedisLabs/redislabs-docs)
+3. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972682721) in [getsentry/sentry](https://github.com/getsentry/sentry)
+4. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972680851) in [getsentry/sentry](https://github.com/getsentry/sentry)
+5. 🗣 Commented on [#9160](https://github.com/containerd/containerd/issues/9160#issuecomment-1962367630) in [containerd/containerd](https://github.com/containerd/containerd)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
