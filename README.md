@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#535](https://github.com/prometheus/statsd_exporter/issues/535#issuecomment-1975931417) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
-2. 💪 Opened PR [#3159](https://github.com/RedisLabs/redislabs-docs/pull/3159) in [RedisLabs/redislabs-docs](https://github.com/RedisLabs/redislabs-docs)
-3. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972682721) in [getsentry/sentry](https://github.com/getsentry/sentry)
-4. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972680851) in [getsentry/sentry](https://github.com/getsentry/sentry)
-5. 🗣 Commented on [#9160](https://github.com/containerd/containerd/issues/9160#issuecomment-1962367630) in [containerd/containerd](https://github.com/containerd/containerd)
+1. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1986870589) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+2. 🗣 Commented on [#535](https://github.com/prometheus/statsd_exporter/issues/535#issuecomment-1975931417) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
+3. 💪 Opened PR [#3159](https://github.com/RedisLabs/redislabs-docs/pull/3159) in [RedisLabs/redislabs-docs](https://github.com/RedisLabs/redislabs-docs)
+4. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972682721) in [getsentry/sentry](https://github.com/getsentry/sentry)
+5. 🗣 Commented on [#30059](https://github.com/getsentry/sentry/issues/30059#issuecomment-1972680851) in [getsentry/sentry](https://github.com/getsentry/sentry)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
