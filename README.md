@@ -36,9 +36,9 @@
 ## :memo: Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  9,904 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 455 tasks so far           
+🏆  9,910 Karma Points           
+🌸  Completed 2 tasks today           
+🗓  Completed 8 tasks this week           
+✅  Completed 456 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
