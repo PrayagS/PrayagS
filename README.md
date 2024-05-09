@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2254](https://github.com/koekeishiya/yabai/issues/2254#issuecomment-2094846570) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
-2. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1993628369) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
-3. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1987170914) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
-4. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1987155085) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
-5. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1986870589) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+1. 🗣 Commented on [#2254](https://github.com/koekeishiya/yabai/issues/2254#issuecomment-2102187525) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+2. 🗣 Commented on [#2254](https://github.com/koekeishiya/yabai/issues/2254#issuecomment-2094846570) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+3. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1993628369) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+4. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1987170914) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+5. 🗣 Commented on [#2150](https://github.com/koekeishiya/yabai/issues/2150#issuecomment-1987155085) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
