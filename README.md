@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#98](https://github.com/m4xshen/hardtime.nvim/issues/98) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
-2. 🗣 Commented on [#252](https://github.com/mikesmithgh/kitty-scrollback.nvim/issues/252#issuecomment-2131289671) in [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim)
-3. 🔒 Closed issue [#252](https://github.com/mikesmithgh/kitty-scrollback.nvim/issues/252) in [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim)
-4. ❗ Opened issue [#252](https://github.com/mikesmithgh/kitty-scrollback.nvim/issues/252) in [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim)
-5. 🗣 Commented on [#2254](https://github.com/koekeishiya/yabai/issues/2254#issuecomment-2102187525) in [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+1. 🗣 Commented on [#98](https://github.com/m4xshen/hardtime.nvim/issues/98#issuecomment-2143546033) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+2. 🔒 Closed issue [#98](https://github.com/m4xshen/hardtime.nvim/issues/98) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+3. 🗣 Commented on [#78](https://github.com/nvim-telescope/telescope-live-grep-args.nvim/issues/78#issuecomment-2143544493) in [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim)
+4. ❗ Opened issue [#98](https://github.com/m4xshen/hardtime.nvim/issues/98) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+5. 🗣 Commented on [#252](https://github.com/mikesmithgh/kitty-scrollback.nvim/issues/252#issuecomment-2131289671) in [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
