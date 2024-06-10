@@ -26,11 +26,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/argoproj-labs/argocd-vault-plugin/issues/175#issuecomment-2151279288) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
-2. 🗣 Commented on [#393](https://github.com/argoproj-labs/argocd-vault-plugin/issues/393#issuecomment-2151278713) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
-3. 🗣 Commented on [#508](https://github.com/argoproj-labs/argocd-vault-plugin/issues/508#issuecomment-2151278351) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
-4. 🗣 Commented on [#98](https://github.com/m4xshen/hardtime.nvim/issues/98#issuecomment-2143546033) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
-5. 🔒 Closed issue [#98](https://github.com/m4xshen/hardtime.nvim/issues/98) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+1. 🗣 Commented on [#46](https://github.com/chrisgrieser/nvim-spider/issues/46#issuecomment-2159065319) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
+2. 🔒 Closed issue [#46](https://github.com/chrisgrieser/nvim-spider/issues/46) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
+3. ❗ Opened issue [#46](https://github.com/chrisgrieser/nvim-spider/issues/46) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
+4. 🗣 Commented on [#175](https://github.com/argoproj-labs/argocd-vault-plugin/issues/175#issuecomment-2151279288) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
+5. 🗣 Commented on [#393](https://github.com/argoproj-labs/argocd-vault-plugin/issues/393#issuecomment-2151278713) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
