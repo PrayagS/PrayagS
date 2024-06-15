@@ -17,10 +17,6 @@
 
 ![](./col1.metrics.svg)
 
-![](./followup.metrics.svg)
-
-![](./col2.metrics.svg)
-
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
 ## :zap: Recent Activity
