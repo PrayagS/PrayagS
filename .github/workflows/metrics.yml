@@ -18,37 +18,39 @@ jobs:
           base: header, repositories
           base_indepth: yes
           base_hireable: yes
-          config_order: base.header, base.repositories, notable
+          config_order: base.header, base.repositories, notable, stars
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_self: yes
           plugin_notable_types: commit, pull_request, issue
-      - name: Followup
-        uses: lowlighter/metrics@latest
-        with:
-          filename: followup.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_sections: user, repositories
-          plugin_followup_indepth: yes
-          plugin_followup_archived: yes
-      - name: Column 2
-        uses: lowlighter/metrics@latest
-        with:
-          filename: col2.metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          config_order: activity, habits, stars
-          plugin_activity: yes
-          plugin_activity_days: 30
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_habits: yes
-          plugin_habits_facts: yes
           plugin_stars: yes
           plugin_stars_limit: 3
-          config_timezone: Asia/Kolkata
+      # - name: Followup
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: followup.metrics.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_followup: yes
+      #     plugin_followup_sections: user, repositories
+      #     plugin_followup_indepth: yes
+      #     plugin_followup_archived: yes
+      # - name: Column 2
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: col2.metrics.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     config_order: activity, habits, stars
+      #     plugin_activity: yes
+      #     plugin_activity_days: 30
+      #     plugin_activity_filter: all
+      #     plugin_activity_limit: 5
+      #     plugin_activity_load: 300
+      #     plugin_activity_visibility: all
+      #     plugin_habits: yes
+      #     plugin_habits_facts: yes
+      #     plugin_stars: yes
+      #     plugin_stars_limit: 3
+      #     config_timezone: Asia/Kolkata
