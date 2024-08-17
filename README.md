@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13678](https://github.com/prometheus/prometheus/issues/13678#issuecomment-2286020890) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-2. 🗣 Commented on [#46](https://github.com/chrisgrieser/nvim-spider/issues/46#issuecomment-2159065319) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
-3. 🔒 Closed issue [#46](https://github.com/chrisgrieser/nvim-spider/issues/46) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
-4. ❗ Opened issue [#46](https://github.com/chrisgrieser/nvim-spider/issues/46) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
-5. 🗣 Commented on [#175](https://github.com/argoproj-labs/argocd-vault-plugin/issues/175#issuecomment-2151279288) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
+1. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2294803202) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+2. 🗣 Commented on [#13678](https://github.com/prometheus/prometheus/issues/13678#issuecomment-2286020890) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+3. 🗣 Commented on [#46](https://github.com/chrisgrieser/nvim-spider/issues/46#issuecomment-2159065319) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
+4. 🔒 Closed issue [#46](https://github.com/chrisgrieser/nvim-spider/issues/46) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
+5. ❗ Opened issue [#46](https://github.com/chrisgrieser/nvim-spider/issues/46) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
