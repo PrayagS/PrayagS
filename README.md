@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#805](https://github.com/DataDog/datadogpy/issues/805#issuecomment-2338144428) in [DataDog/datadogpy](https://github.com/DataDog/datadogpy)
-2. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2294920783) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-3. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2294803202) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-4. 🗣 Commented on [#13678](https://github.com/prometheus/prometheus/issues/13678#issuecomment-2286020890) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-5. 🗣 Commented on [#46](https://github.com/chrisgrieser/nvim-spider/issues/46#issuecomment-2159065319) in [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider)
+1. ❗ Opened issue [#7](https://github.com/dena-sohrabi/There/issues/7) in [dena-sohrabi/There](https://github.com/dena-sohrabi/There)
+2. 🗣 Commented on [#805](https://github.com/DataDog/datadogpy/issues/805#issuecomment-2338144428) in [DataDog/datadogpy](https://github.com/DataDog/datadogpy)
+3. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2294920783) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+4. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2294803202) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+5. 🗣 Commented on [#13678](https://github.com/prometheus/prometheus/issues/13678#issuecomment-2286020890) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
