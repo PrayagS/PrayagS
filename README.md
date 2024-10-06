@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6295](https://github.com/argoproj/argo-cd/issues/6295#issuecomment-2371822368) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. ❗ Opened issue [#7](https://github.com/dena-sohrabi/There/issues/7) in [dena-sohrabi/There](https://github.com/dena-sohrabi/There)
-3. 🗣 Commented on [#805](https://github.com/DataDog/datadogpy/issues/805#issuecomment-2338144428) in [DataDog/datadogpy](https://github.com/DataDog/datadogpy)
-4. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2294920783) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-5. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2294803202) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+1. 🗣 Commented on [#7127](https://github.com/thanos-io/thanos/issues/7127#issuecomment-2395215400) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+2. 🗣 Commented on [#475](https://github.com/Aloxaf/fzf-tab/issues/475#issuecomment-2395214870) in [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)
+3. 🗣 Commented on [#6295](https://github.com/argoproj/argo-cd/issues/6295#issuecomment-2371822368) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+4. ❗ Opened issue [#7](https://github.com/dena-sohrabi/There/issues/7) in [dena-sohrabi/There](https://github.com/dena-sohrabi/There)
+5. 🗣 Commented on [#805](https://github.com/DataDog/datadogpy/issues/805#issuecomment-2338144428) in [DataDog/datadogpy](https://github.com/DataDog/datadogpy)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
