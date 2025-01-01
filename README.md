@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#406](https://github.com/folke/snacks.nvim/issues/406#issuecomment-2564768275) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-2. ❗ Opened issue [#406](https://github.com/folke/snacks.nvim/issues/406) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-3. 🗣 Commented on [#478](https://github.com/xo/usql/issues/478#issuecomment-2454390587) in [xo/usql](https://github.com/xo/usql)
-4. 🗣 Commented on [#479](https://github.com/Aloxaf/fzf-tab/pull/479#issuecomment-2404384103) in [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)
-5. 🗣 Commented on [#475](https://github.com/Aloxaf/fzf-tab/issues/475#issuecomment-2395474675) in [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)
+1. 🗣 Commented on [#4](https://github.com/danielcopper/wezterm-session-manager/issues/4#issuecomment-2567078578) in [danielcopper/wezterm-session-manager](https://github.com/danielcopper/wezterm-session-manager)
+2. ❗ Opened issue [#6534](https://github.com/wez/wezterm/issues/6534) in [wez/wezterm](https://github.com/wez/wezterm)
+3. 🗣 Commented on [#406](https://github.com/folke/snacks.nvim/issues/406#issuecomment-2564768275) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+4. ❗ Opened issue [#406](https://github.com/folke/snacks.nvim/issues/406) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+5. 🗣 Commented on [#478](https://github.com/xo/usql/issues/478#issuecomment-2454390587) in [xo/usql](https://github.com/xo/usql)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
