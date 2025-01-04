@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6534](https://github.com/wez/wezterm/issues/6534#issuecomment-2569435035) in [wez/wezterm](https://github.com/wez/wezterm)
-2. 🗣 Commented on [#4](https://github.com/danielcopper/wezterm-session-manager/issues/4#issuecomment-2567078578) in [danielcopper/wezterm-session-manager](https://github.com/danielcopper/wezterm-session-manager)
-3. ❗ Opened issue [#6534](https://github.com/wez/wezterm/issues/6534) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🗣 Commented on [#406](https://github.com/folke/snacks.nvim/issues/406#issuecomment-2564768275) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
-5. ❗ Opened issue [#406](https://github.com/folke/snacks.nvim/issues/406) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571294428) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571284364) in [wez/wezterm](https://github.com/wez/wezterm)
+3. 🗣 Commented on [#6534](https://github.com/wez/wezterm/issues/6534#issuecomment-2569435035) in [wez/wezterm](https://github.com/wez/wezterm)
+4. 🗣 Commented on [#4](https://github.com/danielcopper/wezterm-session-manager/issues/4#issuecomment-2567078578) in [danielcopper/wezterm-session-manager](https://github.com/danielcopper/wezterm-session-manager)
+5. ❗ Opened issue [#6534](https://github.com/wez/wezterm/issues/6534) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
