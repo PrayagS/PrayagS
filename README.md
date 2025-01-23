@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1025](https://github.com/DataDog/dd-trace-go/issues/1025#issuecomment-2585238537) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-2. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571294428) in [wez/wezterm](https://github.com/wez/wezterm)
-3. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571284364) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🗣 Commented on [#6534](https://github.com/wez/wezterm/issues/6534#issuecomment-2569435035) in [wez/wezterm](https://github.com/wez/wezterm)
-5. 🗣 Commented on [#4](https://github.com/danielcopper/wezterm-session-manager/issues/4#issuecomment-2567078578) in [danielcopper/wezterm-session-manager](https://github.com/danielcopper/wezterm-session-manager)
+1. 🗣 Commented on [#10884](https://github.com/prometheus/prometheus/issues/10884#issuecomment-2607148177) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+2. 🗣 Commented on [#1025](https://github.com/DataDog/dd-trace-go/issues/1025#issuecomment-2585238537) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+3. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571294428) in [wez/wezterm](https://github.com/wez/wezterm)
+4. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571284364) in [wez/wezterm](https://github.com/wez/wezterm)
+5. 🗣 Commented on [#6534](https://github.com/wez/wezterm/issues/6534#issuecomment-2569435035) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
