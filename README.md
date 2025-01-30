@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2620200612) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-2. 🗣 Commented on [#10884](https://github.com/prometheus/prometheus/issues/10884#issuecomment-2607148177) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
-3. 🗣 Commented on [#1025](https://github.com/DataDog/dd-trace-go/issues/1025#issuecomment-2585238537) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-4. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571294428) in [wez/wezterm](https://github.com/wez/wezterm)
-5. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571284364) in [wez/wezterm](https://github.com/wez/wezterm)
+1. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2621246285) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+2. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2620200612) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+3. 🗣 Commented on [#10884](https://github.com/prometheus/prometheus/issues/10884#issuecomment-2607148177) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+4. 🗣 Commented on [#1025](https://github.com/DataDog/dd-trace-go/issues/1025#issuecomment-2585238537) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+5. 🗣 Commented on [#4488](https://github.com/wez/wezterm/issues/4488#issuecomment-2571294428) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
