@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6596](https://github.com/wez/wezterm/issues/6596#issuecomment-2621587446) in [wez/wezterm](https://github.com/wez/wezterm)
-2. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2621578699) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-3. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2621246285) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-4. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2620200612) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-5. 🗣 Commented on [#10884](https://github.com/prometheus/prometheus/issues/10884#issuecomment-2607148177) in [prometheus/prometheus](https://github.com/prometheus/prometheus)
+1. 💪 Opened PR [#200869](https://github.com/Homebrew/homebrew-cask/pull/200869) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 🗣 Commented on [#6596](https://github.com/wez/wezterm/issues/6596#issuecomment-2621587446) in [wez/wezterm](https://github.com/wez/wezterm)
+3. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2621578699) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+4. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2621246285) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+5. 🗣 Commented on [#6437](https://github.com/prometheus-operator/prometheus-operator/issues/6437#issuecomment-2620200612) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
