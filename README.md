@@ -22,10 +22,10 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/MLFlexer/resurrect.wezterm/issues/70#issuecomment-2780892544) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
-2. 🗣 Commented on [#73](https://github.com/MLFlexer/resurrect.wezterm/issues/73#issuecomment-2780886922) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
-3. 🗣 Commented on [#409](https://github.com/rmagatti/auto-session/issues/409#issuecomment-2769629759) in [rmagatti/auto-session](https://github.com/rmagatti/auto-session)
-4. 💪 Opened PR [#200869](https://github.com/Homebrew/homebrew-cask/pull/200869) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 🗣 Commented on [#73](https://github.com/MLFlexer/resurrect.wezterm/issues/73#issuecomment-2799956109) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
+2. 🗣 Commented on [#70](https://github.com/MLFlexer/resurrect.wezterm/issues/70#issuecomment-2780892544) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
+3. 🗣 Commented on [#73](https://github.com/MLFlexer/resurrect.wezterm/issues/73#issuecomment-2780886922) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
+4. 🗣 Commented on [#409](https://github.com/rmagatti/auto-session/issues/409#issuecomment-2769629759) in [rmagatti/auto-session](https://github.com/rmagatti/auto-session)
 5. 🗣 Commented on [#6596](https://github.com/wez/wezterm/issues/6596#issuecomment-2621587446) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
 
