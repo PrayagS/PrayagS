@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2815860660) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-2. 🗣 Commented on [#977](https://github.com/thanos-io/thanos/issues/977#issuecomment-2815670509) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
-3. 🗣 Commented on [#73](https://github.com/MLFlexer/resurrect.wezterm/issues/73#issuecomment-2799956109) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
-4. 🗣 Commented on [#70](https://github.com/MLFlexer/resurrect.wezterm/issues/70#issuecomment-2780892544) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
-5. 🗣 Commented on [#73](https://github.com/MLFlexer/resurrect.wezterm/issues/73#issuecomment-2780886922) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
+1. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2817838447) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+2. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2815860660) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+3. 🗣 Commented on [#977](https://github.com/thanos-io/thanos/issues/977#issuecomment-2815670509) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+4. 🗣 Commented on [#73](https://github.com/MLFlexer/resurrect.wezterm/issues/73#issuecomment-2799956109) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
+5. 🗣 Commented on [#70](https://github.com/MLFlexer/resurrect.wezterm/issues/70#issuecomment-2780892544) in [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
