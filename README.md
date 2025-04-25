@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2821850001) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-2. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2821783615) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-3. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2817838447) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-4. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2815860660) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-5. 🗣 Commented on [#977](https://github.com/thanos-io/thanos/issues/977#issuecomment-2815670509) in [thanos-io/thanos](https://github.com/thanos-io/thanos)
+1. 🗣 Commented on [#19](https://github.com/julienvincent/hunk.nvim/pull/19#issuecomment-2828703623) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
+2. 💪 Opened PR [#19](https://github.com/julienvincent/hunk.nvim/pull/19) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
+3. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2821850001) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+4. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2821783615) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+5. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2817838447) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
