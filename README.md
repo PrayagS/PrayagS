@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/julienvincent/hunk.nvim/pull/19#issuecomment-2828703623) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
-2. 💪 Opened PR [#19](https://github.com/julienvincent/hunk.nvim/pull/19) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
-3. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2821850001) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-4. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2821783615) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-5. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2817838447) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+1. 🗣 Commented on [#2797](https://github.com/RooVetGit/Roo-Code/issues/2797#issuecomment-2830925503) in [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code)
+2. 🗣 Commented on [#2797](https://github.com/RooVetGit/Roo-Code/issues/2797#issuecomment-2830897867) in [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code)
+3. 🗣 Commented on [#19](https://github.com/julienvincent/hunk.nvim/pull/19#issuecomment-2828703623) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
+4. 💪 Opened PR [#19](https://github.com/julienvincent/hunk.nvim/pull/19) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
+5. 🗣 Commented on [#22263](https://github.com/vectordotdev/vector/issues/22263#issuecomment-2821850001) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
