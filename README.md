@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#83](https://github.com/idursun/jjui/issues/83) in [idursun/jjui](https://github.com/idursun/jjui)
-2. 🗣 Commented on [#2797](https://github.com/RooVetGit/Roo-Code/issues/2797#issuecomment-2830925503) in [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code)
-3. 🗣 Commented on [#2797](https://github.com/RooVetGit/Roo-Code/issues/2797#issuecomment-2830897867) in [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code)
-4. 🗣 Commented on [#19](https://github.com/julienvincent/hunk.nvim/pull/19#issuecomment-2828703623) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
-5. 💪 Opened PR [#19](https://github.com/julienvincent/hunk.nvim/pull/19) in [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim)
+1. 🗣 Commented on [#83](https://github.com/idursun/jjui/issues/83#issuecomment-2888529501) in [idursun/jjui](https://github.com/idursun/jjui)
+2. 💪 Opened PR [#86](https://github.com/idursun/jjui/pull/86) in [idursun/jjui](https://github.com/idursun/jjui)
+3. ❗ Opened issue [#83](https://github.com/idursun/jjui/issues/83) in [idursun/jjui](https://github.com/idursun/jjui)
+4. 🗣 Commented on [#2797](https://github.com/RooVetGit/Roo-Code/issues/2797#issuecomment-2830925503) in [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code)
+5. 🗣 Commented on [#2797](https://github.com/RooVetGit/Roo-Code/issues/2797#issuecomment-2830897867) in [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
