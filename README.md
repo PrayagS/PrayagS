@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/wezterm/wezterm/issues/115#issuecomment-2888900712) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
-2. 🗣 Commented on [#83](https://github.com/idursun/jjui/issues/83#issuecomment-2888529501) in [idursun/jjui](https://github.com/idursun/jjui)
-3. 💪 Opened PR [#86](https://github.com/idursun/jjui/pull/86) in [idursun/jjui](https://github.com/idursun/jjui)
-4. ❗ Opened issue [#83](https://github.com/idursun/jjui/issues/83) in [idursun/jjui](https://github.com/idursun/jjui)
-5. 🗣 Commented on [#2797](https://github.com/RooVetGit/Roo-Code/issues/2797#issuecomment-2830925503) in [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code)
+1. 🗣 Commented on [#5](https://github.com/zdharma-continuum/history-search-multi-word/issues/5#issuecomment-2906973449) in [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word)
+2. 🗣 Commented on [#115](https://github.com/wezterm/wezterm/issues/115#issuecomment-2888900712) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
+3. 🗣 Commented on [#83](https://github.com/idursun/jjui/issues/83#issuecomment-2888529501) in [idursun/jjui](https://github.com/idursun/jjui)
+4. 💪 Opened PR [#86](https://github.com/idursun/jjui/pull/86) in [idursun/jjui](https://github.com/idursun/jjui)
+5. ❗ Opened issue [#83](https://github.com/idursun/jjui/issues/83) in [idursun/jjui](https://github.com/idursun/jjui)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
