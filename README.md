@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2797](https://github.com/RooCodeInc/Roo-Code/issues/2797#issuecomment-2934141154) in [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
-2. 🗣 Commented on [#88020](https://github.com/grafana/grafana/issues/88020#issuecomment-2930025619) in [grafana/grafana](https://github.com/grafana/grafana)
-3. 🗣 Commented on [#5](https://github.com/zdharma-continuum/history-search-multi-word/issues/5#issuecomment-2906973449) in [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word)
-4. 🗣 Commented on [#115](https://github.com/wezterm/wezterm/issues/115#issuecomment-2888900712) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
-5. 🗣 Commented on [#83](https://github.com/idursun/jjui/issues/83#issuecomment-2888529501) in [idursun/jjui](https://github.com/idursun/jjui)
+1. 🗣 Commented on [#232](https://github.com/lmstudio-ai/lms/issues/232#issuecomment-2952588438) in [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms)
+2. 🗣 Commented on [#2797](https://github.com/RooCodeInc/Roo-Code/issues/2797#issuecomment-2934141154) in [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+3. 🗣 Commented on [#88020](https://github.com/grafana/grafana/issues/88020#issuecomment-2930025619) in [grafana/grafana](https://github.com/grafana/grafana)
+4. 🗣 Commented on [#5](https://github.com/zdharma-continuum/history-search-multi-word/issues/5#issuecomment-2906973449) in [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word)
+5. 🗣 Commented on [#115](https://github.com/wezterm/wezterm/issues/115#issuecomment-2888900712) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
