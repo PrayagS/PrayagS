@@ -22,10 +22,10 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#181](https://github.com/idursun/jjui/issues/181) in [idursun/jjui](https://github.com/idursun/jjui)
-2. 🗣 Commented on [#2688](https://github.com/kubernetes/kube-state-metrics/issues/2688#issuecomment-3067447593) in [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
-3. 🗣 Commented on [#2688](https://github.com/kubernetes/kube-state-metrics/issues/2688#issuecomment-3031237684) in [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
-4. 🗣 Commented on [#2797](https://github.com/RooCodeInc/Roo-Code/issues/2797#issuecomment-2934141154) in [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code)
+1. 🗣 Commented on [#83331](https://github.com/grafana/grafana/issues/83331#issuecomment-3069293292) in [grafana/grafana](https://github.com/grafana/grafana)
+2. ❗ Opened issue [#181](https://github.com/idursun/jjui/issues/181) in [idursun/jjui](https://github.com/idursun/jjui)
+3. 🗣 Commented on [#2688](https://github.com/kubernetes/kube-state-metrics/issues/2688#issuecomment-3067447593) in [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
+4. 🗣 Commented on [#2688](https://github.com/kubernetes/kube-state-metrics/issues/2688#issuecomment-3031237684) in [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
 5. 🗣 Commented on [#5](https://github.com/zdharma-continuum/history-search-multi-word/issues/5#issuecomment-2906973449) in [zdharma-continuum/history-search-multi-word](https://github.com/zdharma-continuum/history-search-multi-word)
 <!--END_SECTION:activity-->
 
