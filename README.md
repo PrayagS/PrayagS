@@ -22,8 +22,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23519](https://github.com/vectordotdev/vector/issues/23519) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-2. 🗣 Commented on [#181](https://github.com/idursun/jjui/issues/181#issuecomment-3079452603) in [idursun/jjui](https://github.com/idursun/jjui)
+1. 🗣 Commented on [#1734](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1734#issuecomment-3246366536) in [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ)
+2. ❗ Opened issue [#23519](https://github.com/vectordotdev/vector/issues/23519) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
 3. 🗣 Commented on [#83331](https://github.com/grafana/grafana/issues/83331#issuecomment-3069293292) in [grafana/grafana](https://github.com/grafana/grafana)
 4. ❗ Opened issue [#181](https://github.com/idursun/jjui/issues/181) in [idursun/jjui](https://github.com/idursun/jjui)
 5. 🗣 Commented on [#2688](https://github.com/kubernetes/kube-state-metrics/issues/2688#issuecomment-3067447593) in [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
