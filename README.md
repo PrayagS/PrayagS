@@ -22,10 +22,10 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3630](https://github.com/openai/codex/issues/3630#issuecomment-3304005844) in [openai/codex](https://github.com/openai/codex)
-2. 🗣 Commented on [#2303](https://github.com/vectordotdev/vector/issues/2303#issuecomment-3284430909) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-3. 🗣 Commented on [#1734](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1734#issuecomment-3246366536) in [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ)
-4. ❗ Opened issue [#181](https://github.com/idursun/jjui/issues/181) in [idursun/jjui](https://github.com/idursun/jjui)
+1. ❗ Opened issue [#23849](https://github.com/vectordotdev/vector/issues/23849) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+2. 🗣 Commented on [#3630](https://github.com/openai/codex/issues/3630#issuecomment-3304005844) in [openai/codex](https://github.com/openai/codex)
+3. 🗣 Commented on [#2303](https://github.com/vectordotdev/vector/issues/2303#issuecomment-3284430909) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+4. 🗣 Commented on [#1734](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1734#issuecomment-3246366536) in [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ)
 5. 🗣 Commented on [#2688](https://github.com/kubernetes/kube-state-metrics/issues/2688#issuecomment-3067447593) in [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics)
 <!--END_SECTION:activity-->
 
