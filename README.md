@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23787](https://github.com/vectordotdev/vector/issues/23787#issuecomment-3330820416) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-2. ❗ Opened issue [#23849](https://github.com/vectordotdev/vector/issues/23849) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-3. 🗣 Commented on [#3630](https://github.com/openai/codex/issues/3630#issuecomment-3304005844) in [openai/codex](https://github.com/openai/codex)
-4. 🗣 Commented on [#2303](https://github.com/vectordotdev/vector/issues/2303#issuecomment-3284430909) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
-5. 🗣 Commented on [#1734](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1734#issuecomment-3246366536) in [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ)
+1. 🗣 Commented on [#7118](https://github.com/wezterm/wezterm/issues/7118#issuecomment-3386703596) in [wezterm/wezterm](https://github.com/wezterm/wezterm)
+2. 🗣 Commented on [#23787](https://github.com/vectordotdev/vector/issues/23787#issuecomment-3330820416) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+3. ❗ Opened issue [#23849](https://github.com/vectordotdev/vector/issues/23849) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
+4. 🗣 Commented on [#3630](https://github.com/openai/codex/issues/3630#issuecomment-3304005844) in [openai/codex](https://github.com/openai/codex)
+5. 🗣 Commented on [#2303](https://github.com/vectordotdev/vector/issues/2303#issuecomment-3284430909) in [vectordotdev/vector](https://github.com/vectordotdev/vector)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
