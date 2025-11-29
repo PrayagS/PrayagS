@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-2. 🗣 Commented on [#379](https://github.com/ajayyy/DeArrow/issues/379#issuecomment-3591080913) in [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
-3. 💪 Opened PR [#237499](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 🗣 Commented on [#2139](https://github.com/mbnuqw/sidebery/issues/2139#issuecomment-3559154206) in [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery)
-5. 🗣 Commented on [#2139](https://github.com/mbnuqw/sidebery/issues/2139#issuecomment-3554735427) in [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery)
+1. 🗣 Commented on [#69](https://github.com/LucioFranco/jj-spr/pull/69#issuecomment-3591858659) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+2. 💪 Opened PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+3. 🗣 Commented on [#379](https://github.com/ajayyy/DeArrow/issues/379#issuecomment-3591080913) in [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
+4. 💪 Opened PR [#237499](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+5. 🗣 Commented on [#2139](https://github.com/mbnuqw/sidebery/issues/2139#issuecomment-3559154206) in [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
