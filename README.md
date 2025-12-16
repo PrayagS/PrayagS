@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/LucioFranco/jj-spr/pull/69#issuecomment-3591858659) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-2. 💪 Opened PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-3. 🗣 Commented on [#379](https://github.com/ajayyy/DeArrow/issues/379#issuecomment-3591080913) in [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
-4. ❌ Merged PR [#237499](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 💪 Opened PR [#237499](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. ❌ Merged PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+2. 🗣 Commented on [#69](https://github.com/LucioFranco/jj-spr/pull/69#issuecomment-3591858659) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+3. 💪 Opened PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+4. 🗣 Commented on [#379](https://github.com/ajayyy/DeArrow/issues/379#issuecomment-3591080913) in [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
+5. ❌ Merged PR [#237499](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
