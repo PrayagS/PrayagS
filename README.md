@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/aminought/firefox-second-sidebar/issues/173#issuecomment-3694829125) in [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar)
-2. ❌ Merged PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-3. 🗣 Commented on [#69](https://github.com/LucioFranco/jj-spr/pull/69#issuecomment-3591858659) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-4. 💪 Opened PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-5. 🗣 Commented on [#379](https://github.com/ajayyy/DeArrow/issues/379#issuecomment-3591080913) in [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
+1. ❗ Opened issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+2. 🗣 Commented on [#173](https://github.com/aminought/firefox-second-sidebar/issues/173#issuecomment-3694829125) in [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar)
+3. ❌ Merged PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+4. 🗣 Commented on [#69](https://github.com/LucioFranco/jj-spr/pull/69#issuecomment-3591858659) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+5. 💪 Opened PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
