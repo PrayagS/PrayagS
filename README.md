@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
-2. 🗣 Commented on [#173](https://github.com/aminought/firefox-second-sidebar/issues/173#issuecomment-3694829125) in [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar)
-3. ❌ Merged PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-4. 🗣 Commented on [#69](https://github.com/LucioFranco/jj-spr/pull/69#issuecomment-3591858659) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
-5. 💪 Opened PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+1. 🔒 Closed issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+2. 🗣 Commented on [#21](https://github.com/tddworks/ClaudeBar/issues/21#issuecomment-3698902672) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+3. ❗ Opened issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+4. 🗣 Commented on [#173](https://github.com/aminought/firefox-second-sidebar/issues/173#issuecomment-3694829125) in [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar)
+5. ❌ Merged PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
