@@ -26,7 +26,7 @@
 2. 🗣 Commented on [#21](https://github.com/tddworks/ClaudeBar/issues/21#issuecomment-3698902672) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
 3. ❗ Opened issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
 4. 🗣 Commented on [#173](https://github.com/aminought/firefox-second-sidebar/issues/173#issuecomment-3694829125) in [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar)
-5. ❌ Merged PR [#69](undefined) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+5. 🎉 Merged PR [#69](https://github.com/LucioFranco/jj-spr/pull/69) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
