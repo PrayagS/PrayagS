@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
-2. 🗣 Commented on [#21](https://github.com/tddworks/ClaudeBar/issues/21#issuecomment-3698902672) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
-3. ❗ Opened issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
-4. 🗣 Commented on [#173](https://github.com/aminought/firefox-second-sidebar/issues/173#issuecomment-3694829125) in [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar)
-5. 🎉 Merged PR [#69](https://github.com/LucioFranco/jj-spr/pull/69) in [LucioFranco/jj-spr](https://github.com/LucioFranco/jj-spr)
+1. ❗ Opened issue [#61](https://github.com/tddworks/ClaudeBar/issues/61) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+2. 🗣 Commented on [#13](https://github.com/rafikdraoui/jj-diffconflicts/issues/13#issuecomment-3740381255) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
+3. 🗣 Commented on [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14#issuecomment-3740378160) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
+4. 💪 Opened PR [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
+5. 🔒 Closed issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
