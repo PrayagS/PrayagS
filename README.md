@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#61](https://github.com/tddworks/ClaudeBar/issues/61) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
-2. 🗣 Commented on [#13](https://github.com/rafikdraoui/jj-diffconflicts/issues/13#issuecomment-3740381255) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
-3. 🗣 Commented on [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14#issuecomment-3740378160) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
-4. 💪 Opened PR [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
-5. 🔒 Closed issue [#21](https://github.com/tddworks/ClaudeBar/issues/21) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+1. 🗣 Commented on [#61](https://github.com/tddworks/ClaudeBar/issues/61#issuecomment-3742292458) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+2. ❗ Opened issue [#61](https://github.com/tddworks/ClaudeBar/issues/61) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+3. 🗣 Commented on [#13](https://github.com/rafikdraoui/jj-diffconflicts/issues/13#issuecomment-3740381255) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
+4. 🗣 Commented on [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14#issuecomment-3740378160) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
+5. 💪 Opened PR [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
