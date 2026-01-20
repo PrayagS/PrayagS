@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/hmans/beans/pull/56#issuecomment-3771386862) in [hmans/beans](https://github.com/hmans/beans)
-2. 🎉 Merged PR [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
-3. 🗣 Commented on [#61](https://github.com/tddworks/ClaudeBar/issues/61#issuecomment-3760792196) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
-4. 🗣 Commented on [#61](https://github.com/tddworks/ClaudeBar/issues/61#issuecomment-3744072085) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
-5. 🗣 Commented on [#61](https://github.com/tddworks/ClaudeBar/issues/61#issuecomment-3742292458) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+1. 🗣 Commented on [#13067](https://github.com/anthropics/claude-code/issues/13067#issuecomment-3772802206) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🗣 Commented on [#56](https://github.com/hmans/beans/pull/56#issuecomment-3771386862) in [hmans/beans](https://github.com/hmans/beans)
+3. 🎉 Merged PR [#14](https://github.com/rafikdraoui/jj-diffconflicts/pull/14) in [rafikdraoui/jj-diffconflicts](https://github.com/rafikdraoui/jj-diffconflicts)
+4. 🗣 Commented on [#61](https://github.com/tddworks/ClaudeBar/issues/61#issuecomment-3760792196) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
+5. 🗣 Commented on [#61](https://github.com/tddworks/ClaudeBar/issues/61#issuecomment-3744072085) in [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
