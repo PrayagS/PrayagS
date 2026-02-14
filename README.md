@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#532](https://github.com/idursun/jjui/pull/532) in [idursun/jjui](https://github.com/idursun/jjui)
-2. 🗣 Commented on [#7](https://github.com/baggiiiie/jjui/pull/7#issuecomment-3901757060) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
-3. ❌ Closed PR [#7](https://github.com/baggiiiie/jjui/pull/7) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
-4. 💪 Opened PR [#7](https://github.com/baggiiiie/jjui/pull/7) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
-5. 🗣 Commented on [#59010](https://github.com/istio/istio/issues/59010#issuecomment-3878662864) in [istio/istio](https://github.com/istio/istio)
+1. 🎉 Merged PR [#532](https://github.com/idursun/jjui/pull/532) in [idursun/jjui](https://github.com/idursun/jjui)
+2. 💪 Opened PR [#532](https://github.com/idursun/jjui/pull/532) in [idursun/jjui](https://github.com/idursun/jjui)
+3. 🗣 Commented on [#7](https://github.com/baggiiiie/jjui/pull/7#issuecomment-3901757060) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
+4. ❌ Closed PR [#7](https://github.com/baggiiiie/jjui/pull/7) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
+5. 💪 Opened PR [#7](https://github.com/baggiiiie/jjui/pull/7) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
