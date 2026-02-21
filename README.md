@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#532](https://github.com/idursun/jjui/pull/532) in [idursun/jjui](https://github.com/idursun/jjui)
-2. 💪 Opened PR [#532](https://github.com/idursun/jjui/pull/532) in [idursun/jjui](https://github.com/idursun/jjui)
-3. 🗣 Commented on [#7](https://github.com/baggiiiie/jjui/pull/7#issuecomment-3901757060) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
-4. ❌ Closed PR [#7](https://github.com/baggiiiie/jjui/pull/7) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
-5. 💪 Opened PR [#7](https://github.com/baggiiiie/jjui/pull/7) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
+1. 🗣 Commented on [#27466](https://github.com/anthropics/claude-code/issues/27466#issuecomment-3939258190) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🎉 Merged PR [#532](https://github.com/idursun/jjui/pull/532) in [idursun/jjui](https://github.com/idursun/jjui)
+3. 💪 Opened PR [#532](https://github.com/idursun/jjui/pull/532) in [idursun/jjui](https://github.com/idursun/jjui)
+4. 🗣 Commented on [#7](https://github.com/baggiiiie/jjui/pull/7#issuecomment-3901757060) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
+5. ❌ Closed PR [#7](https://github.com/baggiiiie/jjui/pull/7) in [baggiiiie/jjui](https://github.com/baggiiiie/jjui)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
