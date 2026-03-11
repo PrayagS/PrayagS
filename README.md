@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#165](https://github.com/hamed-elfayome/Claude-Usage-Tracker/issues/165#issuecomment-4033387026) in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
-2. ℹ️ Labeled issue [#165](https://github.com/hamed-elfayome/Claude-Usage-Tracker/issues/165) in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
-3. ❗ Opened issue [#165](https://github.com/hamed-elfayome/Claude-Usage-Tracker/issues/165) in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
-4. 🗣 Commented on [#1895](https://github.com/badlogic/pi-mono/issues/1895#issuecomment-4017155945) in [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
-5. 🗣 Commented on [#27466](https://github.com/anthropics/claude-code/issues/27466#issuecomment-3960409106) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🗣 Commented on [#165](https://github.com/hamed-elfayome/Claude-Usage-Tracker/issues/165#issuecomment-4041871912) in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
+2. 🗣 Commented on [#165](https://github.com/hamed-elfayome/Claude-Usage-Tracker/issues/165#issuecomment-4033387026) in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
+3. ℹ️ Labeled issue [#165](https://github.com/hamed-elfayome/Claude-Usage-Tracker/issues/165) in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
+4. ❗ Opened issue [#165](https://github.com/hamed-elfayome/Claude-Usage-Tracker/issues/165) in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker)
+5. 🗣 Commented on [#1895](https://github.com/badlogic/pi-mono/issues/1895#issuecomment-4017155945) in [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
