@@ -22,11 +22,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/HazAT/pi-interactive-subagents/issues/18) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
-2. 🎉 Merged PR [#14](https://github.com/HazAT/pi-interactive-subagents/pull/14) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
-3. 💪 Opened PR [#14](https://github.com/HazAT/pi-interactive-subagents/pull/14) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
-4. 💪 Opened PR [#1](https://github.com/jordyvandomselaar/pi-image-attachments/pull/1) in [jordyvandomselaar/pi-image-attachments](https://github.com/jordyvandomselaar/pi-image-attachments)
-5. 🗣 Commented on [#59](https://github.com/raine/workmux/issues/59#issuecomment-4046080702) in [raine/workmux](https://github.com/raine/workmux)
+1. 🔒 Closed issue [#18](https://github.com/HazAT/pi-interactive-subagents/issues/18) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
+2. 🗣 Commented on [#18](https://github.com/HazAT/pi-interactive-subagents/issues/18#issuecomment-4274105105) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
+3. ❗ Opened issue [#18](https://github.com/HazAT/pi-interactive-subagents/issues/18) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
+4. 🎉 Merged PR [#14](https://github.com/HazAT/pi-interactive-subagents/pull/14) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
+5. 💪 Opened PR [#14](https://github.com/HazAT/pi-interactive-subagents/pull/14) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
 <!--END_SECTION:activity-->
 
 ## :memo: Todoist Stats
