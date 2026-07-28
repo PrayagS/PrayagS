@@ -22,8 +22,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#467](https://github.com/mrjones2014/smart-splits.nvim/pull/467#issuecomment-5084250414) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
-2. 💪 Opened PR [#1](https://github.com/pasky/pi-session-summary/pull/1) in [pasky/pi-session-summary](https://github.com/pasky/pi-session-summary)
+1. 🗣 Commented on [#64533](https://github.com/anthropics/claude-code/issues/64533#issuecomment-5106050359) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🗣 Commented on [#467](https://github.com/mrjones2014/smart-splits.nvim/pull/467#issuecomment-5084250414) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
 3. 🔒 Closed issue [#18](https://github.com/HazAT/pi-interactive-subagents/issues/18) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
 4. 🗣 Commented on [#18](https://github.com/HazAT/pi-interactive-subagents/issues/18#issuecomment-4274105105) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
 5. 🎉 Merged PR [#14](https://github.com/HazAT/pi-interactive-subagents/pull/14) in [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
