@@ -22,7 +22,7 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#524](https://github.com/modem-dev/hunk/issues/524#issuecomment-5248017210) in [modem-dev/hunk](https://github.com/modem-dev/hunk)
+1. 🗣 Commented on [#2802](https://github.com/asmvik/yabai/issues/2802#issuecomment-5837422850) in [asmvik/yabai](https://github.com/asmvik/yabai)
 2. ❌ Closed PR [#1](https://github.com/pasky/pi-session-summary/pull/1) in [pasky/pi-session-summary](https://github.com/pasky/pi-session-summary)
 3. 🗣 Commented on [#64533](https://github.com/anthropics/claude-code/issues/64533#issuecomment-5106050359) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 4. 🗣 Commented on [#467](https://github.com/mrjones2014/smart-splits.nvim/pull/467#issuecomment-5084250414) in [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
